@@ -18,7 +18,8 @@ Want to help and add resources? Awesome! Checkout our [CONTRIBUTING guidelines](
  
 ### Android
 
-*
+* **[Android Developers](https://developer.android.com/index.html)**
+* **[Google Play Developer Console](https://play.google.com/apps/publish)**
 
 ### General
 
