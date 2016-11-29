@@ -23,7 +23,7 @@ Want to help and add resources? Awesome! Checkout our [CONTRIBUTING guidelines](
 
 ### General
 
-* 
+* **[Kotlin Language](https://kotlinlang.org)**
 
 ### Slack
 
