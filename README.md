@@ -9,10 +9,10 @@ Want to help and add resources? Awesome! Checkout our [CONTRIBUTING guidelines](
  
 ## Index
 
-[Android](#Android) · 
-[General](#General) · 
-[Slack](#Slack) · 
-[Career](#Career)
+[Android](#android) · 
+[General](#general) · 
+[Slack](#slack) · 
+[Career](#career)
  
 -------
  
